@@ -568,6 +568,12 @@ small {
   background-color: #008073 !important;
 }
 
+.teal-text.hoverline.experience-2 {
+  text-align: center;
+  /*font-size: 0.9cm; */
+  display: inline-block;
+}
+
 /* .teal {
   background-color: #00695c !important;
 } */
