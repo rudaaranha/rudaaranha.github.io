@@ -320,6 +320,9 @@ h3 {
   position: relative;
 } */
 
+.container.flow-text {
+  text-align: justify;
+}
 
 #intro.section {
   background: #a7ffeb repeat;
